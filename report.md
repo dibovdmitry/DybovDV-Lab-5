@@ -147,6 +147,6 @@ Docker‑образ собран и запущен, многоступенчат
 Проведены позитивные и негативные тесты, API работает корректно и возвращает результаты при правильных запросах и ошибки валидации.
 
 ##### Приложения
-- Скрипты и файлы проекта main.py, models/emotion_model.py, utils/validation.py, test_client.py, Dockerfile, .dockerignore, requirements.txt.
+- Скрипты проекта main.py, models/emotion_model.py, utils/validation.py и test_client.py находятся в папках всех лабораторных. Файлы Dockerfile, .dockerignore, requirements.txt в lab-5-2 и lab-5-3.
 - Отчёт по тестированию записан в файле api_test_report.md в папке lab-5-3.
 - Скриншоты помещены в папку report.
