@@ -33,11 +33,23 @@
 - [x] Сформирован отчёт api_test_report.md с результатами тестирования.
 
 ##### Ключевые фрагменты кода
-- Скрипт report_ontology.py
+- Скрипт emotion_model.py
 ```python
 
 ```
-- Скрипт llm_sparql_generation.py
+- Скрипт predict.py
+```python
+
+```
+- Скрипт validation.py
+```python
+
+```
+- Скрипт main.py
+```python
+
+```
+- Скрипт test_client.py
 ```python
 
 ```
